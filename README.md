@@ -421,7 +421,8 @@
 
 ##### 盒模型建立
 
-![img](https://img.mukewang.com/543b4cae0001b34304300350.jpg)
+![Uploading image.png…]()
+
 
 ```html
 <style type="text/css">
