@@ -421,7 +421,7 @@
 
 ##### 盒模型建立
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/9b4e1f07-1364-4152-8ef9-dc958c6562a3)
 
 
 ```html
